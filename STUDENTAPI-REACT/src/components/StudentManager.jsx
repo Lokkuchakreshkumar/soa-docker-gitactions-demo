@@ -128,7 +128,7 @@ const StudentManager = () => {
 )}
 
 
-      <h2>Student Management  -  30347</h2>
+      <h2>Student Management</h2>
 
       <div>
         <h3>{editMode ? 'Edit Student' : 'Add Student'}</h3>
